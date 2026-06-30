@@ -26,7 +26,7 @@ Build entry points:
 - `patches/build.gradle.kts`
 - `patches/stub/build.gradle.kts`
 
-Compatibility metadata in this bundle is set for CHZZ
+Compatibility metadata in this bundle is set for CHZZK.
 
 To build, run the Gradle wrapper from this folder after setting the Morphe/GitHub package credentials required by the upstream patch toolchain.
 

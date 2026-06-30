@@ -1,0 +1,12 @@
+.gradle/
+.kotlin/
+build/
+**/build/
+*.apk
+*.ap_
+*.aab
+*.mpp
+*.keystore
+debug.keystore
+chzzk_screen*.png
+chzzk_check*.png
